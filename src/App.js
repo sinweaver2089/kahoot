@@ -1,5 +1,5 @@
 import React from 'react';
-import KahootBotJoiner from './components/KahootBotJoiner';
+import KahootBotJoiner from './KahootBotJoiner';
 
 const App = () => {
   return (
